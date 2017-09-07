@@ -1,0 +1,1 @@
+C:/Users/jemagall/AppData/Local/nvim/init.vim
